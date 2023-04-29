@@ -115,7 +115,7 @@ const Demo = () => {
             Well, that wasn't suppose to happen...
             <br />
             <span className="font-satoshi font-normal text-gray-700">
-              {error?.data?.error}
+              "Sorry, Can't able to summarize this URL."
             </span>
           </p>
         ) : (
